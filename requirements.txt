@@ -2,3 +2,4 @@ scapy
 pandas
 tabulate
 requests
+pyfiglet
